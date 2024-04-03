@@ -1,0 +1,48 @@
+[
+    {
+        "id": "1",
+        "name": "Camiseta Azul",
+        "description": "Camiseta de algodão azul",
+        "price": 29.99,
+        "sizes": [
+            "P",
+            "M",
+            "G"
+        ],
+        "colors": [
+            "Azul"
+        ],
+        "image": "shirt1.jpg"
+    },
+    {
+        "id": "2",
+        "name": "Camiseta Vermelha",
+        "description": "Camiseta de algodão vermelha",
+        "price": 34.99,
+        "sizes": [
+            "P",
+            "M",
+            "G",
+            "GG"
+        ],
+        "colors": [
+            "Vermelho"
+        ],
+        "image": "shirt2.jpg"
+    },
+    {
+        "id": "3",
+        "name": "Camiseta Verde",
+        "description": "Camiseta de algodão verde",
+        "price": 39.99,
+        "sizes": [
+            "M",
+            "G",
+            "GG"
+        ],
+        "colors": [
+            "Verde"
+        ],
+        "image": "shirt3.jpg"
+    }
+]
